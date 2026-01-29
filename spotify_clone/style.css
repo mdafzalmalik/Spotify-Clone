@@ -20,7 +20,7 @@ body {
 }
 
 .main-content {
-    flex: 1;
+    flex: 1; /*to take rest of width or height*/
     background: linear-gradient(to bottom, #202020, #000000);
     border-radius: 0.5rem;
     overflow: hidden;
@@ -547,6 +547,7 @@ body {
 
 
   
+
 
 
 
